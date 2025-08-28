@@ -1,0 +1,6 @@
+@PATareasEjemplo_HostAddress = http://localhost:5049
+
+GET {{PATareasEjemplo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
