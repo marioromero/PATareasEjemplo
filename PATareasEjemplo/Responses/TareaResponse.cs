@@ -6,4 +6,11 @@ namespace PATareasEjemplo.Responses
     {
 
     }
+
+    public class TareasResponse : ResponseBase<List<Tarea>>
+    {
+
+    }
+
+
 }
